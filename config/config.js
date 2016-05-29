@@ -13,5 +13,6 @@ module.exports = {
         multipleStatements: true,
         dateStrings: true,
         database: 'nodeDB'
-    }
+    },
+    viewDir:'views'
 }
